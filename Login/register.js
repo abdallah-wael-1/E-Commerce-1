@@ -50,5 +50,5 @@ form?.addEventListener("submit", (e) => {
 
   // Success message
   alert("✔️ Registration successful!");
-  window.location.href = "/Login/login.html";
+  window.location.href = "../Login/login.html";
 });
